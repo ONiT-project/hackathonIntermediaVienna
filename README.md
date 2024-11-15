@@ -8,6 +8,9 @@ The notebook for interacting with the CLIP model is available at (https://github
 Fine-tuning of openCLIP code shared here: (https://github.com/ONiT-project/open_clip_finetune/blob/main/open-CLIP-finetune.ipynb)
 
 ## Some notes
+Alternative models to try out:
+- Using OpenAI API might work well for a first classification of the four main classes well out of the box (automatisation of annotations & classification)
+- ColPali (alternative multi-modal model to try out!)
 
 Added value of multimodal retrieval approaches (combining text and image data):
 - Combining text and image data improves image retrieval by projecting images into a semantic vector space
