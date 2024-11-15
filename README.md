@@ -19,9 +19,11 @@ Added value of multimodal retrieval approaches (combining text and image data):
 - --> poster idea: clustering of images; clustering of texts; clustering of multi-modal embeddings
 - Retrieval of images should be complemented with additional contextual information to be useful for historical research, i.e. book title, author, page, description of image
 - Linking to other resources (knowledge graph) --> how much can be automated in a meaningful way? How much manual curation is required to achieve good quality?
+- Reading/understanding of complex systems
 
 Distant reading vs. close reading:
 - You need to have a clear idea how you reached the resulting heuristics & how model works (parameters leading to the produced order)
 - Finding patterns (distant reading) vs. starting from a specific detail/analysis
 - Scalable reading: go from distance to close reading to explore patterns & inspect contextual details
 - Having interoperable standard is needed: you have to know what you are looking for; what is noise; does big picture pattern match the individual use case/analysis
+- Tacit knowledge vs. evidence-based decisions: Be aware of how human reasoning works to create systems/visualisations that are useful
